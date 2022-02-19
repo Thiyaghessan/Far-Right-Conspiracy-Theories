@@ -7,5 +7,4 @@ Mini project 1: Web scraper using Wayback Machine API scraping the contents of I
 
 Mini project 2: Text Analysis of scraped articles to identify core themes
 
-Mini project 3: Modelling spread of misinformation online with interactive agent-based model \n
-Mini project 3 comes with an attached.py file with utility functions used in the notebook
+Interactive Game: Modelling spread of misinformation online with interactive agent-based model it comes with an attached conspiracy.py file with utility functions used in the notebook
