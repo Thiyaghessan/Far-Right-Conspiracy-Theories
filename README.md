@@ -3,8 +3,10 @@ Folder for Computational Analysis of Social Processes
 
 In this repository I have three mini projects tracing the evolution of far-right conspiracy theories online
 
-Mini project 1: Web scraper using Wayback Machine API scraping the contents of Infowars.com
+Thiyaghessan_MACS30124_mini_project_1.ipynb: In this mini project I build a web scraper that calls the Wayback Machine API to scrape the Infowars.com website
 
-Mini project 2: Text Analysis of scraped articles to identify core themes
+mini_project_2.ipynb: After I have scraped Infowars.com and saved my scraped data to a .json file, I perform a text analysis on the scraped articles.
 
-Interactive Game: Modelling spread of misinformation online with interactive agent-based model it comes with an attached conspiracy.py file with utility functions used in the notebook
+Interactive_Game_Conspiracy_Theories.ipynb: An interactive game that models the spread of conspiracy theories on social media networks
+
+Conspiracy.py: File with helper functions for the interactive game above
